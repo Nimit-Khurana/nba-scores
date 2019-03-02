@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup as soup
 import requests
-import sys
-import re
-
 
 date = input("Enter date to look for(YYYYMMDD): ")
 base_url = "http://www.espn.in/nba/schedule"
