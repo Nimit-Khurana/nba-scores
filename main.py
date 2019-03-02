@@ -58,4 +58,6 @@ for i in range(1,len(table_sibling.table.findAll("tr"))):
         print (tr_data.contents[0].replace(",", " beat"))
 
 print ("Matches Played: {}".format(len(table_sibling.table.findAll("tr"))-1))
-print ()
+print ("\n----Team's attributes----")
+for keyss,valuess in team_attrs.items():
+    print (valuess + " -- " + keyss)
