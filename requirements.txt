@@ -1,0 +1,8 @@
+# "Click" ==> http://click.palletsprojects.com/en/5.x/utils/
+# interface with argument parsing and handling, it also provides a bunch of addon functionality
+# that is useful for writing command line utilities.
+
+requests==2.7.0
+bs4==4.4.0
+click==7.0
+terminaltables==3.1.0
