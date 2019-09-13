@@ -1,10 +1,5 @@
 # nba-scores
-used beautifulsoup to scrape SONY
-	      _______  ______   ______
-       /        /        /     /  /\      /
-      /______  /______  /_____/  /  \    /
-     /               / /        /    \  /
-    /______   ______/ /        /      \/
+used beautifulsoup to scrape SONY ESPN
 
 ![alt text](https://github.com/Nimit-Khurana/nba-scores/blob/master/Screenshot_20190914_003743.png)
     Scores by date!!
