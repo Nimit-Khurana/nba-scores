@@ -1,4 +1,4 @@
-from scores import scores, standings, teams
+from features import scores, standings, teams
 
 
 def main():
